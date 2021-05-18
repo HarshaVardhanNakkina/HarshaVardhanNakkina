@@ -26,4 +26,5 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: he/him/his...
 <!-- - ⚡ Fun fact: ... -->
 - ✨ Here is some vim magic I did ✨
+
   ![intor](./profile_intro.gif)
