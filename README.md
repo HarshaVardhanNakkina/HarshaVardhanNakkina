@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me:
 
     <p>
-    <a target="_blank"href="https://twitter.com/Ganeshh___"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a target="_blank"href="https://twitter.com/Ganeshh___"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a target="_blank"href="https://www.linkedin.com/in/harsha-vardhan-nakkina-447b721b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     </p>
 
 - 😄 Pronouns: he/him/his...
