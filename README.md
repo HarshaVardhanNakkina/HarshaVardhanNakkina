@@ -28,3 +28,5 @@ Here are some ideas to get you started: -->
 - ✨ Here is some vim magic I did ✨
 
   ![intor](./profile_intro.gif)
+  
+  👇👇👇 Check out some of my projects 👇👇👇
