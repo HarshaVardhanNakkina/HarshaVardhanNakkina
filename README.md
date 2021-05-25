@@ -10,8 +10,8 @@
 
 ### 📫 How to reach me
 
-[<img align="left" alt="Twitter" width="22px" src="./icons/Twitter icon.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="./icons/LinkedIn icon.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="32px" src="./icons/Twitter icon.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="32px" src="./icons/LinkedIn icon.svg" />][linkedin]
 
 <br />
 
