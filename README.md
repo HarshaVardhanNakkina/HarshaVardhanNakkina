@@ -39,7 +39,7 @@
 
 ![intro](./profile_intro.gif)
 
-👇👇👇 Check out some of my projects 👇👇👇
+### 👇👇👇 Check out some of my projects 👇👇👇
 
 [twitter]: https://twitter.com/@Ganeshh___
 [linkedin]: https://www.linkedin.com/in/harsha-vardhan-nakkina-447b721b4/
