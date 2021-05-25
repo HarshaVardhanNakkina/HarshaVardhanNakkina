@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Harsha Vardhan
 
-### I am a web developer
+### I am a web developer, CS Major, Masters in Information Security
 
 - 🧔 Pronouns: he/him...
 
