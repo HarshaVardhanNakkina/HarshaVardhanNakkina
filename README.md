@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-### 🧰 🛠️ My Toolbox
+### 🧰 My Toolbox
 <img align="left" alt="Microsoft Windows OS" title="Widows" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/7e27b6be94036e7f54ca23314f75b3596cd54c95/icons/Windows%20icon.svg" />
 <img align="left" alt="Debian OS" title="Debian" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/8b0f9a5cb176688829acac47f2c62847d57b28ce/icons/Debian%20icon.svg" />
 <img align="left" alt="Visual Studio Code" title="VSCode" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/daa7cc94db6b4dab49a30fd1fe5c9e87a3b12553/icons/Visual%20Studio%20Code%20icon.svg" />
