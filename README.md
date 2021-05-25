@@ -17,7 +17,7 @@
 
 ### ✨ Here is some vim magic I did ✨
 
-![intor](./profile_intro.gif)
+![intro](./profile_intro.gif)
 
 👇👇👇 Check out some of my projects 👇👇👇
 
