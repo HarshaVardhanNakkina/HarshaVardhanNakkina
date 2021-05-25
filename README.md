@@ -1,32 +1,45 @@
-# Hi there 👋 I am HarshaVardhan
+## Hi there 👋 I am Harsha Vardhan
 
-<!--
-**HarshaVardhanNakkina/HarshaVardhanNakkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a web developer, CS Major, Masters in Information Security
 
-Here are some ideas to get you started: -->
+- 🧔 Pronouns: he/him...
 
-<!-- - 🔭 I’m currently working on ... -->
+### 🌱 I’m currently learning
+<img align="left" alt="Java" title="Java" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/5b1433dafdb11c5f356996a09a24f3e34e7159bf/icons/Java%20icon.svg" />
+<img align="left" alt="Kotlin" title="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 
-- 🌱 I’m currently learning
+<br/>
+<br/>
 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <!-- - 👯 I’m looking to collaborate on ... -->
-  <!-- - 🤔 I’m looking for help with ... -->
+### 🧰 My Toolbox
+<img align="left" alt="Microsoft Windows OS" title="Widows" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/7e27b6be94036e7f54ca23314f75b3596cd54c95/icons/Windows%20icon.svg" />
+<img align="left" alt="Debian OS" title="Debian" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/8b0f9a5cb176688829acac47f2c62847d57b28ce/icons/Debian%20icon.svg" />
+<img align="left" alt="Visual Studio Code" title="VSCode" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/daa7cc94db6b4dab49a30fd1fe5c9e87a3b12553/icons/Visual%20Studio%20Code%20icon.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SCSS" title="SCSS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React.js" title="React.js" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/3f0f30a93165510dfa574ce5d17b5495a853d0d5/icons/React%20icon.svg" />
+<img align="left" alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Git" title="Git" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/3f0f30a93165510dfa574ce5d17b5495a853d0d5/icons/Git%20icon.svg" />
+<img align="left" alt="Windows Terminal" title="Windows Terminal" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/23c4e89004763aae92854fa3f8ce4539597f5296/icons/Windows%20Terminal%20icon.svg" />
 
-- 💬 Ask me about
+<br/>
+<br/>
 
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+### 📫 How to reach me
+[<img align="left" alt="Twitter" width="32px" src="./icons/Twitter icon.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="32px" src="./icons/LinkedIn icon.svg" />][linkedin]
 
-- 📫 How to reach me:
+<br/>
+<br/>
 
-    <p>
-    <a target="_blank"href="https://twitter.com/Ganeshh___"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a target="_blank"href="https://www.linkedin.com/in/harsha-vardhan-nakkina-447b721b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    </p>
+### ✨ Here is some vim magic I did ✨
 
-- 😄 Pronouns: he/him/his...
-<!-- - ⚡ Fun fact: ... -->
-- ✨ Here is some vim magic I did ✨
+![intro](./profile_intro.gif)
 
-  ![intor](./profile_intro.gif)
-  
-  👇👇👇 Check out some of my projects 👇👇👇
+👇👇👇 Check out some of my projects 👇👇👇
+
+[twitter]: https://twitter.com/@Ganeshh___
+[linkedin]: https://www.linkedin.com/in/harsha-vardhan-nakkina-447b721b4/
