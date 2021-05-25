@@ -29,8 +29,8 @@
 <br/>
 
 ### 📫 How to reach me
-[<img align="left" alt="Twitter" width="32px" src="./icons/Twitter icon.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="32px" src="./icons/LinkedIn icon.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/40e65497c4579916a5457ea891a4b1a5f87ebbc0/icons/Twitter%20icon.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/40e65497c4579916a5457ea891a4b1a5f87ebbc0/icons/LinkedIn%20icon.svg" />][linkedin]
 
 <br/>
 <br/>
