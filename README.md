@@ -27,7 +27,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ### 📫 How to reach me
 [<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/40e65497c4579916a5457ea891a4b1a5f87ebbc0/icons/Twitter%20icon.svg" />][twitter]
