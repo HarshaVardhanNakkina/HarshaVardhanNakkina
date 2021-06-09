@@ -7,6 +7,7 @@
 ### 🌱 I’m currently learning
 <img align="left" alt="Java" title="Java" width="32px" src="https://raw.githubusercontent.com/HarshaVardhanNakkina/HarshaVardhanNakkina/5b1433dafdb11c5f356996a09a24f3e34e7159bf/icons/Java%20icon.svg" />
 <img align="left" alt="Kotlin" title="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Kotlin" title="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
 <br/>
 <br/>
